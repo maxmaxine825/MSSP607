@@ -3,7 +3,7 @@ from git import Repo
 
 #--- setup ---------------------------------------------------------------
 repo_path = Path("/workspaces/MSSP607/")     # path to your local clone
-folder     = repo_path/"WeeklyModules/Weekly2"   # folder you want to add
+folder     = repo_path/"CodeSamples"   # folder you want to add
 commit_msg = "Add Weekly Module folder with placeholder"
 
 # --- create the folder & placeholder -------------------------------------
